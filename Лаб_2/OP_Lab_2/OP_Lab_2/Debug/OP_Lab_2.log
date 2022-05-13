@@ -1,0 +1,12 @@
+﻿  Hospital.cpp
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(145,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\OP_Lab_2\Hospital.cpp(156,20): warning C4018: <: несоответствие типов со знаком и без знака
+  OP_Lab_2.cpp
+  Patient.cpp
+  Создание кода...
+  OP_Lab_2.vcxproj -> C:\Study\Second Sem 2022\OP\Лаб_2\OP_Lab_2\Debug\OP_Lab_2.exe
