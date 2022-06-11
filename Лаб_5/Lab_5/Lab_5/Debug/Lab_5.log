@@ -1,0 +1,5 @@
+﻿  Lab_5.cpp
+C:\Study\Second Sem 2022\OP\Лаб_5\Лаб_5\Lab_5\Lab_5\Lab_5.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_5\Лаб_5\Lab_5\Lab_5\Lab_5.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Study\Second Sem 2022\OP\Лаб_5\Лаб_5\Lab_5\Lab_5\Lab_5.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_5.vcxproj -> C:\Study\Second Sem 2022\OP\Лаб_5\Лаб_5\Lab_5\Debug\Lab_5.exe
