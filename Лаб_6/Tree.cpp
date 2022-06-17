@@ -29,7 +29,8 @@ void Tree::displayTree(const string& prefix_msg, const Node* node, bool isLeft)
     if (node)
     {
         cout << prefix_msg;
-        cout << (isLeft ? "|--" : "L--");
+        cout << (isLeft ? "L--" : "R--");
+      
         cout << node->value << endl;
         displayTree(prefix_msg + (isLeft ? "|   " : "    "), node->left, true);
         displayTree(prefix_msg + (isLeft ? "|   " : "    "), node->right, false);
